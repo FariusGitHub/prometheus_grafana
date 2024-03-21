@@ -1,0 +1,12 @@
+Please, refer to Lara Project 8 submission for a better approach from my group.
+https://github.com/LaraTunc/wcd-8-observability
+
+I just added some fundamentals theory from Prometheus and Grafana mainly from Dawei TA.
+Instead of using AWS EKS I simply used Docker Desktop Kubernetes cluster to run the same things.
+
+Just before the summary section as found in
+https://github.com/FariusGitHub/prometheus_grafana
+
+I demonstrate the observability of two spikes when CPU load reached 55% for example
+https://github.com/FariusGitHub/prometheus_grafana/blob/main/images/15_image06.png
+
